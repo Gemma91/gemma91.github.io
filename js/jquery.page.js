@@ -65,7 +65,7 @@
 					$('#link_skills').removeClass('active');
 					$('#link_experience').removeClass('active');
 					$('#link_education').removeClass('active');
-					$('#link_pubblication').removeClass('active');
+					$('#link_publication').removeClass('active');
 					$('#link_contact').removeClass('active');
 					
 					$('#link_'+chapter).addClass('active');

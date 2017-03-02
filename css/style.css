@@ -809,42 +809,42 @@ a.totop-link {
 }
 
 /* ==========================================================================
-   #Pubblication Screen
+   #publication Screen
    ========================================================================== */
 
-.pubblication-con .icon-block i {
+.publication-con .icon-block i {
     font-size: 60px;
     color: #ffb400;
     margin: 8px 0 0
 }
-.pubblication-con h5 {
+.publication-con h5 {
     margin: 5px 0 7px 0
 }
-.pubblication-con span {
+.publication-con span {
     font-size: 16px;
     color: #000;
 }
-.pubblication-con strong {
+.publication-con strong {
     font-weight: 500;
     color: #000;
     text-transform: uppercase;
     display: inline-block;
     margin: 0 0 5px 0
 }
-.pubblication-details {
+.publication-details {
     float: left;
 }
-.pubblication-details i {
+.publication-details i {
     transition-duration: .2s;
     -moz-transition-duration: .2s;
     -webkit-transition-duration: .2s;
     -o-transition-duration: .2s;
 }
-.pubblication-details:hover i {
+.publication-details:hover i {
     font-size: 73px;
     color: #000;
 }
-.pubblication-details:hover .col-3 {
+.publication-details:hover .col-3 {
     width: 29%;
     transition-duration: .2s;
     -moz-transition-duration: .2s;
