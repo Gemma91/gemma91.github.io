@@ -921,6 +921,9 @@
 .fa-laptop:before {
   content: "\f109";
 }
+.fa-briefcase:before {
+  content: "\f0b1";
+}
 .fa-tablet:before {
   content: "\f10a";
 }
